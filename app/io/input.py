@@ -10,7 +10,7 @@ def input_from_keyboard():
     Returns:
         string: The text that user entered.
     """
-    print("Enter the text, please")
+    print("Enter the text, please!")
     string = input()
     return string
 
